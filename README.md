@@ -21,7 +21,7 @@ I am always eager to learn and grow, seeking out opportunities to expand my skil
         <div class="socials">
             <a href="https://github.com/wnsdbs" target="_blank">
                 <i>GitHub</i> 
-            </a>
+            </a> <br>
             <a href="https://instagram.com/yjn977" target="_blank">
                 <i>Instagram</i> 
             </a>
