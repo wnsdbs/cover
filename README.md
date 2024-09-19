@@ -20,10 +20,10 @@ Feel free to explore my repositories and connect with me!</p>
 I am always eager to learn and grow, seeking out opportunities to expand my skill set and embrace new challenges. My current experience includes proficiency in <strong>Java, JavaScript, Python, and HTML/CSS</strong>, and I am committed to refining my expertise in these languages while also exploring other areas within the field of STEAM.
         <div class="socials">
             <a href="https://github.com/wnsdbs" target="_blank">
-                <i class="fab fa-github"></i> GitHub
+                <i></i> GitHub
             </a>
             <a href="https://instagram.com/yjn977" target="_blank">
-                <i class="fab fa-twitter"></i> Instagram
+                <i></i> Instagram
             </a>
         </div>
     </div>
