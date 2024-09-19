@@ -4,68 +4,11 @@ I am always eager to learn and grow, seeking out opportunities to expand my skil
 Instagram: @yjn977
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>GitHub Cover</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #1f1f1f;
-            color: #f3f3f3;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        .container {
-            text-align: center;
-            border: 2px solid #3f3f3f;
-            padding: 2rem;
-            border-radius: 12px;
-            background-color: #292929;
-            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
-            width: 90%;
-            max-width: 600px;
-        }
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-            color: #ffcc00;
-        }
-        p {
-            font-size: 1.2rem;
-            margin-bottom: 2rem;
-            line-height: 1.5;
-        }
-        a {
-            color: #ffcc00;
-            text-decoration: none;
-            border-bottom: 2px solid #ffcc00;
-            padding-bottom: 0.2rem;
-        }
-        a:hover {
-            color: #ffffff;
-            border-bottom: 2px solid #ffffff;
-        }
-        .social-icons {
-            margin-top: 1rem;
-        }
-        .social-icons a {
-            margin: 0 10px;
-            font-size: 1.5rem;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
