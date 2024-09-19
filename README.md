@@ -1,11 +1,3 @@
-
-
-
-Instagram: @yjn977
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
