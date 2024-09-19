@@ -3,7 +3,7 @@
   src: url('SF-Pro.ttf');
 }
 
-p { 
+div { 
   font-family: 'Times New Roman';
   color: red;
 }
