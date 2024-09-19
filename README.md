@@ -18,15 +18,12 @@ Instagram: @yjn977
 Feel free to explore my repositories and connect with me!</p>
 
 I am always eager to learn and grow, seeking out opportunities to expand my skill set and embrace new challenges. My current experience includes proficiency in <strong>Java, JavaScript, Python, and HTML/CSS</strong>, and I am committed to refining my expertise in these languages while also exploring other areas within the field of STEAM.
-        <div class="social-icons">
-            <a href="https://github.com/yourprofile" target="_blank">
+        <div class="socials">
+            <a href="https://github.com/wnsdbs" target="_blank">
                 <i class="fab fa-github"></i> GitHub
             </a>
-            <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-                <i class="fab fa-linkedin"></i> LinkedIn
-            </a>
-            <a href="https://twitter.com/yourprofile" target="_blank">
-                <i class="fab fa-twitter"></i> Twitter
+            <a href="https://instagram.com/yjn977" target="_blank">
+                <i class="fab fa-twitter"></i> Instagram
             </a>
         </div>
     </div>
