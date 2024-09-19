@@ -5,7 +5,7 @@ I am always eager to learn and grow, seeking out opportunities to expand my skil
 Instagram: @yjn977
 
 
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <!DOCTYPE html>
 <html lang="en">
