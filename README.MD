@@ -14,10 +14,10 @@ Feel free to explore my repositories and connect with me!</p>
 <p><strong>Links: 🔗</strong></p>
         <div class="socials">
             <a href="https://github.com/wnsdbs" target="_blank">
-                <i>GitHub</i> 
+                <i>🎱 GitHub</i> 
             </a> <br>
             <a href="https://instagram.com/yjn977" target="_blank">
-                <i>Instagram</i> 
+                <i>🚀 Instagram</i> 
             </a>
         </div>
     </div>
